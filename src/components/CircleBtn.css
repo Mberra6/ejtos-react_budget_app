@@ -1,0 +1,13 @@
+.btn-circle.btn-xl {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    margin-left: 7rem;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    font-size: 30px;
+    border-radius: 35px;
+  }
+  
