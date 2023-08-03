@@ -65,8 +65,6 @@ const AllocationForm = (props) => {
                     <div>
                         <span style={{marginLeft: "2rem"}}>{currency}</span>
                         <input
-                            required='required'
-                            type='number'
                             id='cost'
                             value={cost}
                             style={{ marginLeft: '0.5rem' , size: 10}}
